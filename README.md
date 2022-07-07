@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Hello! My name is Dakota and I decided over quarantine (like many others), I needed a change from working in the service industry and blue collar jobs to a career where I could grow as far as I could learn. My current goal is to get my foot in the door with a company who will allow me to show them I am worth their time. 
+Hello! My name is Dakota and I'm looking for work as a fullstack or front end developer. :)  I love the creativity that comes with programming and the community has been even better. 
 
 I'm currently making my way through Fullstack Academy x OU and learning amongst others like me.
 
