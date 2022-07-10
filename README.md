@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 ## Hello!
 My name is Dakota and I'm looking for work as a **fullstack** or **front end developer**. I love the creativity that comes with programming and the community has been even better. Some of the projects I've worked on recently are as follows:
 
-- ### Stranger's Things (in progress) - a craigslist-lite webapp made using React with messaging, login verification and, ability to create/delete posts.
+- ### Stranger's Things (in progress) -
+a craigslist-lite webapp made using React with messaging, login verification and, ability to create/delete posts.
        repo - https://github.com/INIKITS/StrangersThings
        
        
